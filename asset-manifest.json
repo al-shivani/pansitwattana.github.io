@@ -1,7 +1,13 @@
 {
-  "main.css": "static/css/main.cacbacc7.css",
-  "main.css.map": "static/css/main.cacbacc7.css.map",
-  "main.js": "static/js/main.5a8346cc.js",
-  "main.js.map": "static/js/main.5a8346cc.js.map",
+  "main.css": "static/css/main.5afad88e.css",
+  "main.css.map": "static/css/main.5afad88e.css.map",
+  "main.js": "static/js/main.d18aef95.js",
+  "main.js.map": "static/js/main.d18aef95.js.map",
+  "static\\media\\Symbola.eot": "static/media/Symbola.e4ae9ff7.eot",
+  "static\\media\\Symbola.otf": "static/media/Symbola.4621fcfd.otf",
+  "static\\media\\Symbola.svg": "static/media/Symbola.20db57ba.svg",
+  "static\\media\\Symbola.ttf": "static/media/Symbola.52a6aac1.ttf",
+  "static\\media\\Symbola.woff": "static/media/Symbola.b1445a46.woff",
+  "static\\media\\Symbola.woff2": "static/media/Symbola.cb8d804a.woff2",
   "static\\media\\logo.svg": "static/media/logo.5d5d9eef.svg"
 }
