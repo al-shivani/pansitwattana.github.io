@@ -19,12 +19,20 @@ importScripts('workbox-sw.prod.v2.0.0.js');
  */
 const fileManifest = [
   {
+    "url": "asset-manifest.json",
+    "revision": "161be75335f4b55b627478a7526502d8"
+  },
+  {
     "url": "index.html",
     "revision": "2407beabe8679bb07174c3fcb649e9be"
   },
   {
     "url": "logo.png",
     "revision": "02de8dbbb281ac5e7d82eeef724f72b1"
+  },
+  {
+    "url": "manifest.json",
+    "revision": "3b8ffc788323e2f158c5eded6d23d6c9"
   },
   {
     "url": "mathquill/font\\Symbola-basic.eot",
