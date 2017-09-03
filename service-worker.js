@@ -28,7 +28,7 @@ const fileManifest = [
   },
   {
     "url": "logo.png",
-    "revision": "02de8dbbb281ac5e7d82eeef724f72b1"
+    "revision": "657ab64452de7d49be05d4254f1df2e8"
   },
   {
     "url": "manifest.json",
