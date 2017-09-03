@@ -19,20 +19,12 @@ importScripts('workbox-sw.prod.v2.0.0.js');
  */
 const fileManifest = [
   {
-    "url": "asset-manifest.json",
-    "revision": "161be75335f4b55b627478a7526502d8"
-  },
-  {
     "url": "index.html",
-    "revision": "e2ae2ddcc22bac632f793da1d9d1021a"
+    "revision": "2407beabe8679bb07174c3fcb649e9be"
   },
   {
     "url": "logo.png",
     "revision": "02de8dbbb281ac5e7d82eeef724f72b1"
-  },
-  {
-    "url": "manifest.json",
-    "revision": "3b8ffc788323e2f158c5eded6d23d6c9"
   },
   {
     "url": "mathquill/font\\Symbola-basic.eot",
@@ -83,10 +75,6 @@ const fileManifest = [
     "revision": "a56a563f2e0b3147ff09b9f848c9ef3a"
   },
   {
-    "url": "static/css\\main.9ed6c276.css.map",
-    "revision": "cb6782d541fc5930ac217cd91ba290ff"
-  },
-  {
     "url": "static/js\\main.13ec03e7.js",
     "revision": "759f7b38a4034bd4a24a33d667154a9a"
   },
@@ -109,10 +97,6 @@ const fileManifest = [
   {
     "url": "static/media\\Symbola.e4ae9ff7.eot",
     "revision": "e4ae9ff7ac2476ae421fc4278e5d3806"
-  },
-  {
-    "url": "workbox-sw.prod.v2.0.0.js.map",
-    "revision": "ae41383395d43fd4c5b9678d3010a498"
   }
 ];
 
