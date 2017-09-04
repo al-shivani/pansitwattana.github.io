@@ -23,12 +23,12 @@ const fileManifest = [
     "revision": "161be75335f4b55b627478a7526502d8"
   },
   {
-    "url": "index.html",
-    "revision": "2407beabe8679bb07174c3fcb649e9be"
+    "url": "icon.png",
+    "revision": "2273f47e97a9239724f1cfb269f3ed6c"
   },
   {
-    "url": "logo.png",
-    "revision": "657ab64452de7d49be05d4254f1df2e8"
+    "url": "index.html",
+    "revision": "e764a89dcae90b88539b36b9f32ddc1c"
   },
   {
     "url": "manifest.json",
