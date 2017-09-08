@@ -20,19 +20,19 @@ importScripts('workbox-sw.prod.v2.0.0.js');
 const fileManifest = [
   {
     "url": "asset-manifest.json",
-    "revision": "161be75335f4b55b627478a7526502d8"
+    "revision": "16a76d42cd54b641be82e63e2a776ee4"
   },
   {
     "url": "icon.png",
-    "revision": "2273f47e97a9239724f1cfb269f3ed6c"
+    "revision": "51373ff692cdda03b4c80138b6d919f6"
   },
   {
     "url": "index.html",
-    "revision": "e764a89dcae90b88539b36b9f32ddc1c"
+    "revision": "576427c2c8a2cd6c25fe7fac315a07e4"
   },
   {
     "url": "manifest.json",
-    "revision": "3b8ffc788323e2f158c5eded6d23d6c9"
+    "revision": "6d7c488d83ab305a43ec411f7e13a009"
   },
   {
     "url": "mathquill/font\\Symbola-basic.eot",
@@ -79,12 +79,36 @@ const fileManifest = [
     "revision": "b96a12cc1530d084417bd4b4c050f6e3"
   },
   {
-    "url": "static/css\\main.9ed6c276.css",
-    "revision": "a56a563f2e0b3147ff09b9f848c9ef3a"
+    "url": "static/css\\main.71c41aee.css",
+    "revision": "98dc3b53fbbe5eb5292b5f99c5756c9c"
   },
   {
-    "url": "static/js\\main.13ec03e7.js",
-    "revision": "759f7b38a4034bd4a24a33d667154a9a"
+    "url": "static/js\\main.1d8e9faf.js",
+    "revision": "2185a38d2d9379e426540c52bfac4746"
+  },
+  {
+    "url": "static/media\\flags.9c74e172.png",
+    "revision": "9c74e172f87984c48ddf5c8108cabe67"
+  },
+  {
+    "url": "static/media\\icons.674f50d2.eot",
+    "revision": "674f50d287a8c48dc19ba404d20fe713"
+  },
+  {
+    "url": "static/media\\icons.912ec66d.svg",
+    "revision": "912ec66d7572ff821749319396470bde"
+  },
+  {
+    "url": "static/media\\icons.af7ae505.woff2",
+    "revision": "af7ae505a9eed503f8b8e6982036873e"
+  },
+  {
+    "url": "static/media\\icons.b06871f2.ttf",
+    "revision": "b06871f281fee6b241d60582ae9369b9"
+  },
+  {
+    "url": "static/media\\icons.fee66e71.woff",
+    "revision": "fee66e712a8a08eef5805a46892932ad"
   },
   {
     "url": "static/media\\Symbola.4621fcfd.otf",
