@@ -20,7 +20,7 @@ importScripts('workbox-sw.prod.v2.1.1.js');
 const fileManifest = [
   {
     "url": "asset-manifest.json",
-    "revision": "c3d5a69a84a8a483ea52da201d790955"
+    "revision": "4129a25c7d740bd14a8ccf3ab707f5b3"
   },
   {
     "url": "icon.png",
@@ -32,7 +32,7 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "73720fe2d14af45a4f52c41ab6b68fed"
+    "revision": "45963ff1a8f46ec29afdca604ff3c49e"
   },
   {
     "url": "jquery.min.js",
