@@ -20,7 +20,7 @@ importScripts('workbox-sw.prod.v2.1.1.js');
 const fileManifest = [
   {
     "url": "asset-manifest.json",
-    "revision": "097bb32f5bf66def02a9159d7d8113b6"
+    "revision": "c748d45551f0da866943afdf5f454033"
   },
   {
     "url": "icon.png",
@@ -32,7 +32,7 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b4f12e991fcfc64e5ccb7961381a5d5f"
+    "revision": "c3ed92dd9bfd8214e545c2d03f53db6c"
   },
   {
     "url": "jquery.min.js",
@@ -87,8 +87,8 @@ const fileManifest = [
     "revision": "b96a12cc1530d084417bd4b4c050f6e3"
   },
   {
-    "url": "static/css/main.d7e27cc7.css",
-    "revision": "8e92a73723d28ffa9f0525cf2eecbb6e"
+    "url": "static/css/main.6095c2b9.css",
+    "revision": "9a895f3db2d9ea7528b51d6ecaf340b5"
   },
   {
     "url": "static/media/dummy.20c74952.png",
@@ -99,24 +99,24 @@ const fileManifest = [
     "revision": "9c74e172f87984c48ddf5c8108cabe67"
   },
   {
-    "url": "static/media/icons.674f50d2.eot",
-    "revision": "674f50d287a8c48dc19ba404d20fe713"
+    "url": "static/media/icons.263bfe56.eot",
+    "revision": "263bfe56755cefdc9e6c3d8070e0868d"
   },
   {
-    "url": "static/media/icons.912ec66d.svg",
-    "revision": "912ec66d7572ff821749319396470bde"
+    "url": "static/media/icons.27c88389.woff2",
+    "revision": "27c88389f00e0d8bfeebebae81f240b6"
   },
   {
-    "url": "static/media/icons.af7ae505.woff2",
-    "revision": "af7ae505a9eed503f8b8e6982036873e"
+    "url": "static/media/icons.7bc63d50.woff",
+    "revision": "7bc63d50d4158c6bfd4b30a99c9f9460"
   },
   {
-    "url": "static/media/icons.b06871f2.ttf",
-    "revision": "b06871f281fee6b241d60582ae9369b9"
+    "url": "static/media/icons.b42b4467.svg",
+    "revision": "b42b446772f84a277ee29a0615b38800"
   },
   {
-    "url": "static/media/icons.fee66e71.woff",
-    "revision": "fee66e712a8a08eef5805a46892932ad"
+    "url": "static/media/icons.d3490a32.ttf",
+    "revision": "d3490a32350db6c9c41e69cc9ce99cd0"
   },
   {
     "url": "static/media/Symbola.4621fcfd.otf",
