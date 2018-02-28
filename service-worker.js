@@ -20,7 +20,7 @@ importScripts('workbox-sw.prod.v2.1.1.js');
 const fileManifest = [
   {
     "url": "asset-manifest.json",
-    "revision": "c748d45551f0da866943afdf5f454033"
+    "revision": "acc4a5a6b61d11f833738530f6500b92"
   },
   {
     "url": "icon.png",
@@ -32,7 +32,7 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c3ed92dd9bfd8214e545c2d03f53db6c"
+    "revision": "d50bff3940ae7e10a8c35bae6be3688a"
   },
   {
     "url": "jquery.min.js",
@@ -87,8 +87,8 @@ const fileManifest = [
     "revision": "b96a12cc1530d084417bd4b4c050f6e3"
   },
   {
-    "url": "static/css/main.6095c2b9.css",
-    "revision": "9a895f3db2d9ea7528b51d6ecaf340b5"
+    "url": "static/css/main.038ffd64.css",
+    "revision": "f0742007fbeaadb9604791af4f81a591"
   },
   {
     "url": "static/media/dummy.20c74952.png",
